@@ -7,7 +7,7 @@ Authors: Pranav. S (spranav1911@gmail.com), Prabhakar M.Naik (naikprabhakar96@gm
 A random point (X,Y) is selected in the workspace with respect origin (fixed at the center of the rectangular block). The cartesian commands are given to the actuators at the first joint of each limb to help the end point of the suspension system to reach the goal. 
 
 Points:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.03,&nbsp;Y = -0.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.04, Y = -0.05
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.03,&nbsp;Y = -0.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.04, Y = -0.05
 <p align="center">
   <img width="270" src="https://github.com/pranavs1911/Active-Planar-Two-Degree-of-Freedom-Suspension-System/blob/main/pranav%20(0.03,%20-0.04).gif?raw=true">
   &nbsp&nbsp&nbsp&nbsp<img width="250" src="https://github.com/pranavs1911/Active-Planar-Two-Degree-of-Freedom-Suspension-System/blob/main/pranav%20(0.04,%20-0.05).gif?raw=true">

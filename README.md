@@ -4,7 +4,7 @@ Simulated a simple PID controller for a two degree of freedom planar suspension 
 Authors: Pranav. S (spranav1911@gmail.com), Prabhakar M.Naik (naikprabhakar96@gmail.com)
 
 ## Animations: 
-A random point (X,Y) is selected in the workspace with respect to the origin (fixed at the center of the rectangular block). The cartesian commands are given to the actuators at the first joint of each limb, to help the end point of the suspension system to reach the goal. 
+A random point (X,Y) is selected in the workspace with respect to the origin (fixed at the center of the rectangular block). The cartesian commands are given to the actuators at the first joint of each limb, to help the end point of the suspension system to reach the goal. X and Y are in 'm' with respect to the origin.
 
 ### Points:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.03,&nbsp;Y = -0.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X = 0.04, Y = -0.05
@@ -14,3 +14,5 @@ A random point (X,Y) is selected in the workspace with respect to the origin (fi
 </p>
 
 ## Project Report
+
+Link: https://drive.google.com/file/d/1WLt_ik_PMwmnqASGRWBOvYB8YSqFyBHZ/view
